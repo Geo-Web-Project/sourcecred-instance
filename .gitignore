@@ -3,5 +3,7 @@ site/
 output/
 cache/
 
+.envrc
+
 
 

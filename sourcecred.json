@@ -1,3 +1,5 @@
 {
-  "bundledPlugins": ["sourcecred/discourse", "sourcecred/discord", "sourcecred/github"]
+  "bundledPlugins": [
+    "sourcecred/github"
+  ]
 }
