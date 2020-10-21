@@ -2,7 +2,6 @@
     "repositories": [
         "Geo-Web-Project/specs",
         "Geo-Web-Project/core-contracts",
-        "Geo-Web-Project/HackFSProject",
-        "Geo-Web-Project/admin-web-ui"
+        "Geo-Web-Project/HackFSProject"
     ]
 }
