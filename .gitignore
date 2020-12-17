@@ -4,6 +4,7 @@ output/
 cache/
 
 .envrc
+.env
 
 
 
