@@ -2,7 +2,6 @@
     "repositories": [
         "Geo-Web-Project/specs",
         "Geo-Web-Project/core-contracts",
-        "Geo-Web-Project/HackFSProject",
         "Geo-Web-Project/geojson-graph-demo",
         "Geo-Web-Project/js-geo-web-coordinate",
         "Geo-Web-Project/geo-web-subgraph",
