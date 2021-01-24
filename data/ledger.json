@@ -22,3 +22,5 @@
 {"action":{"base":"wJWd5fbp6d5wwF5XFVrRJA","target":"1hjfvKU0B38cmRdb5t9m2Q","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1610498809066,"uuid":"1R5knVhxumj5RQERXqvZaQ","version":"1"}
 {"action":{"base":"DcLpW2lK0XV7aH1XzN55AQ","target":"YPcds0AGyxfDTPWVmPCgkQ","type":"MERGE_IDENTITIES"},"ledgerTimestamp":1610498829557,"uuid":"K6bsdvKmqra2Mri4wMLB9w","version":"1"}
 {"action":{"identityId":"DcLpW2lK0XV7aH1XzN55AQ","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1610498950811,"uuid":"owDzlTa5WfwioSlDWDfYyQ","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u000086QuLOViVWtQOZm8sOLRKg\u0000","aliases":[],"id":"86QuLOViVWtQOZm8sOLRKg","name":"bozsdrin07","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1611450948804,"uuid":"843HjB412ONdgjNoMOVPPg","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000373054677211938817\u0000","description":"discord/bozsdrin07#5555"},"identityId":"86QuLOViVWtQOZm8sOLRKg","type":"ADD_ALIAS"},"ledgerTimestamp":1611450948804,"uuid":"dzmR8w8rjkbPrUzwyYwVlg","version":"1"}
