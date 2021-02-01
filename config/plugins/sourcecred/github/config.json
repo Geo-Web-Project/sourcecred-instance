@@ -6,6 +6,7 @@
         "Geo-Web-Project/js-geo-web-coordinate",
         "Geo-Web-Project/geo-web-subgraph",
         "Geo-Web-Project/as-geo-web-coordinate",
-        "Geo-Web-Project/cadastre"
+        "Geo-Web-Project/cadastre",
+        "Geo-Web-Project/governance"
     ]
 }
