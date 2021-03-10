@@ -1,0 +1,19 @@
+[
+    {
+      "type": "sourcecred/initiativeFile",
+      "version": "0.2.0"
+    },
+    {
+      "title": "Setup and manage Gitcoin grant",
+      "timestampIso": "2020-12-01T10:00:00.000Z",
+      "weight": {
+        "incomplete": 0,
+        "complete": 60
+      },
+      "completed": true,
+      "champions": ["@gravenp"],
+      "contributions": {},
+      "dependencies": {},
+      "references": {}
+    }
+  ]

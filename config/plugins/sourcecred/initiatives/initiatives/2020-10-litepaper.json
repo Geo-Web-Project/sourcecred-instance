@@ -1,0 +1,23 @@
+[
+    {
+      "type": "sourcecred/initiativeFile",
+      "version": "0.2.0"
+    },
+    {
+      "title": "Geo Web Litepaper",
+      "timestampIso": "2020-10-01T10:00:00.000Z",
+      "weight": {
+        "incomplete": 0,
+        "complete": 90
+      },
+      "completed": true,
+      "champions": ["@gravenp"],
+      "contributions": {
+        "urls": [
+          "https://github.com/Geo-Web-Project/governance/pull/2"
+        ]
+      },
+      "dependencies": {},
+      "references": {}
+    }
+  ]

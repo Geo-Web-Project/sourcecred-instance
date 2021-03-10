@@ -1,0 +1,24 @@
+[
+    {
+      "type": "sourcecred/initiativeFile",
+      "version": "0.2.0"
+    },
+    {
+      "title": "Setup DAO and legal entity",
+      "timestampIso": "2021-02-01T10:00:00.000Z",
+      "weight": {
+        "incomplete": 0,
+        "complete": 40
+      },
+      "completed": true,
+      "champions": ["@gravenp"],
+      "contributions": {
+        "urls": [
+            "https://github.com/Geo-Web-Project/governance/pull/3",
+            "https://github.com/Geo-Web-Project/governance/pull/4"
+        ]
+      },
+      "dependencies": {},
+      "references": {}
+    }
+  ]
