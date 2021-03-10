@@ -8,6 +8,7 @@
         "Geo-Web-Project/as-geo-web-coordinate",
         "Geo-Web-Project/cadastre",
         "Geo-Web-Project/governance",
-        "Geo-Web-Project/ceramic-nodes"
+        "Geo-Web-Project/ceramic-nodes",
+        "Geo-Web-Project/blogs"
     ]
 }
