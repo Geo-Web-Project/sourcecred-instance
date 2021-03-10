@@ -8,7 +8,7 @@
       "timestampIso": "2020-08-04T10:00:00.000Z",
       "weight": {
         "incomplete": 0,
-        "complete": 100
+        "complete": 150
       },
       "completed": true,
       "champions": ["https://github.com/CodinMaster"],

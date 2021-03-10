@@ -8,7 +8,7 @@
       "timestampIso": "2020-12-01T10:00:00.000Z",
       "weight": {
         "incomplete": 0,
-        "complete": 70
+        "complete": 60
       },
       "completed": true,
       "champions": ["@gravenp"],
