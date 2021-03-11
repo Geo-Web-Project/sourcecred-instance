@@ -9,6 +9,7 @@
         "Geo-Web-Project/cadastre",
         "Geo-Web-Project/governance",
         "Geo-Web-Project/ceramic-nodes",
+        "Geo-Web-Project/admin-web-ui",
         "Geo-Web-Project/blogs"
     ]
 }
