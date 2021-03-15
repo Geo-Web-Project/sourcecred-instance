@@ -10,6 +10,7 @@
         "Geo-Web-Project/governance",
         "Geo-Web-Project/ceramic-nodes",
         "Geo-Web-Project/admin-web-ui",
-        "Geo-Web-Project/blogs"
+        "Geo-Web-Project/blogs",
+        "Geo-Web-Project/js-pinning-service-http-client"
     ]
 }
