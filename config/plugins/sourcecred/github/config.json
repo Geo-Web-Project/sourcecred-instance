@@ -12,6 +12,7 @@
         "Geo-Web-Project/admin-web-ui",
         "Geo-Web-Project/blogs",
         "Geo-Web-Project/js-pinning-service-http-client",
-        "Geo-Web-Project/browser"
+        "Geo-Web-Project/browser",
+        "Geo-Web-Project/docs"
     ]
 }
