@@ -1,16 +1,23 @@
-{
-  "guildId": "798294825878814773",
-  "reactionWeights": {
-    "👍": 1,
-    "🌎": 5,
-    "🌍": 5,
-    "🌏": 5
-  },
-  "channelWeightConfig": {
-    "defaultWeight": 1,
-    "weights": {
-      "820076886780674058": 0,
-      "798600138347249665": 0
+[
+  {
+    "guildId": "798294825878814773",
+    "reactionWeightConfig": {
+      "applyAveraging": false,
+      "defaultWeight": 1,
+      "weights": {
+        "👍": 1,
+        "🌎": 5,
+        "🌍": 5,
+        "🌏": 5
+      } 
+    },
+    "channelWeightConfig": {
+      "defaultWeight": 1,
+      "weights": {
+        "820076886780674058": 0,
+        "798600138347249665": 0
+      }
     }
   }
-}
+  
+]

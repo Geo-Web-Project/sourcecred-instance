@@ -6,5 +6,4 @@ cache/
 .envrc
 .env
 
-
-
+shell.nix
