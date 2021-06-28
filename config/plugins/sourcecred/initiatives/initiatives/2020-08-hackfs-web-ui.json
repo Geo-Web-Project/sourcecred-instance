@@ -1,19 +1,21 @@
 [
-    {
-      "type": "sourcecred/initiativeFile",
-      "version": "0.2.0"
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "HackFS Admin Web UI",
+    "timestampIso": "2020-08-04T10:00:00.000Z",
+    "weight": {
+      "incomplete": 0,
+      "complete": 50
     },
-    {
-      "title": "HackFS Admin Web UI",
-      "timestampIso": "2020-08-04T10:00:00.000Z",
-      "weight": {
-        "incomplete": 0,
-        "complete": 150
-      },
-      "completed": true,
-      "champions": ["https://github.com/CodinMaster"],
-      "contributions": {},
-      "dependencies": {},
-      "references": {}
-    }
-  ]
+    "completed": true,
+    "champions": [
+      "https://github.com/CodinMaster"
+    ],
+    "contributions": {},
+    "dependencies": {},
+    "references": {}
+  }
+]
