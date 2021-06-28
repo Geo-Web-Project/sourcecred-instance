@@ -9,7 +9,7 @@
         "🌎": 5,
         "🌍": 5,
         "🌏": 5
-      } 
+      }
     },
     "channelWeightConfig": {
       "defaultWeight": 1,
@@ -19,5 +19,4 @@
       }
     }
   }
-  
 ]
