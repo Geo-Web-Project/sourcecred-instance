@@ -1,19 +1,21 @@
 [
-    {
-      "type": "sourcecred/initiativeFile",
-      "version": "0.2.0"
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Cadastre and Blog Design",
+    "timestampIso": "2020-10-01T10:00:00.000Z",
+    "weight": {
+      "incomplete": 0,
+      "complete": 40
     },
-    {
-      "title": "Cadastre and Blog Design",
-      "timestampIso": "2020-10-01T10:00:00.000Z",
-      "weight": {
-        "incomplete": 0,
-        "complete": 90
-      },
-      "completed": true,
-      "champions": ["https://github.com/alexajaime"],
-      "contributions": {},
-      "dependencies": {},
-      "references": {}
-    }
-  ]
+    "completed": true,
+    "champions": [
+      "https://github.com/alexajaime"
+    ],
+    "contributions": {},
+    "dependencies": {},
+    "references": {}
+  }
+]

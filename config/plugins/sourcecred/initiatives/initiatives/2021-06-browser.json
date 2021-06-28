@@ -1,0 +1,21 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Geo Web Browser",
+        "timestampIso": "2020-06-01T10:00:00.000Z",
+        "weight": {
+            "incomplete": 0,
+            "complete": 50
+        },
+        "completed": true,
+        "champions": [
+            "https://github.com/10dimensions"
+        ],
+        "contributions": {},
+        "dependencies": {},
+        "references": {}
+    }
+]
