@@ -13,7 +13,6 @@
         "Geo-Web-Project/js-pinning-service-http-client",
         "Geo-Web-Project/browser",
         "Geo-Web-Project/storage-workers",
-        "Geo-Web-Project/docs",
-        "Geo-Web-Project/blogs"
+        "Geo-Web-Project/docs"
     ]
 }
