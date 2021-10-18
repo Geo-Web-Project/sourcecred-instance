@@ -1,0 +1,21 @@
+[
+    {
+        "type": "sourcecred/initiativeFile",
+        "version": "0.2.0"
+    },
+    {
+        "title": "Fair Launch Auction Reqs & Specs",
+        "timestampIso": "2020-10-16T10:00:00.000Z",
+        "weight": {
+            "incomplete": 0,
+            "complete": 10
+        },
+        "completed": true,
+        "champions": [
+            "https://github.com/gravenp"
+        ],
+        "contributions": {},
+        "dependencies": {},
+        "references": {}
+    }
+]
