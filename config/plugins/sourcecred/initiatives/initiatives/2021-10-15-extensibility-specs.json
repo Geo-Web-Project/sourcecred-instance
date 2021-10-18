@@ -5,10 +5,10 @@
     },
     {
         "title": "Core Contract Extensibility Specifications (x7)",
-        "timestampIso": "2020-10-15T10:00:00.000Z",
+        "timestampIso": "2021-10-15T10:00:00.000Z",
         "weight": {
             "incomplete": 0,
-            "complete": 50
+            "complete": 20
         },
         "completed": true,
         "champions": [

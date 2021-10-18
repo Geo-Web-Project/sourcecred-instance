@@ -5,10 +5,10 @@
     },
     {
         "title": "Fair Launch Auction Reqs & Specs",
-        "timestampIso": "2020-10-16T10:00:00.000Z",
+        "timestampIso": "2021-10-16T10:00:00.000Z",
         "weight": {
             "incomplete": 0,
-            "complete": 10
+            "complete": 5
         },
         "completed": true,
         "champions": [
