@@ -6,6 +6,12 @@
                 "startTime": "2021-01-01",
                 "budget": 5
             }
+        ],
+        "sourcecred/discourse": [
+            {
+                "startTime": "2021-10-22", 
+                "budget": 5
+            }
         ]
     }
 }
