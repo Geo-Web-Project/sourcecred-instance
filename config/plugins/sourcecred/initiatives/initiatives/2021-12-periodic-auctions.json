@@ -1,0 +1,27 @@
+[
+    {
+      "type": "sourcecred/initiativeFile",
+      "version": "0.2.0"
+    },
+    {
+      "title": "Periodic Auctions Design & Spec",
+      "timestampIso": "2021-12-10T10:00:00.000Z",
+      "weight": {
+        "incomplete": 7,
+        "complete": 20
+      },
+      "completed": false,
+      "champions": [
+            "https://github.com/codynhat"
+            "https://github.com/gravenp"
+      ],
+      "contributions": {
+        "urls": [
+            "https://forum.geoweb.network/t/partial-common-ownership-of-nft-standards/26/16",
+            "https://forum.geoweb.network/t/periodic-auctions-specification-discussion/43/15"
+        ]
+      },
+      "dependencies": {},
+      "references": {}
+    }
+  ]
