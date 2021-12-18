@@ -10,7 +10,7 @@
         "incomplete": 0,
         "complete": 20
       },
-      "completed": false,
+      "completed": true,
       "champions": [
             "https://github.com/codynhat",
             "https://github.com/gravenp"
