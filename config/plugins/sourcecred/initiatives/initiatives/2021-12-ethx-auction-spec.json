@@ -1,0 +1,25 @@
+[
+    {
+      "type": "sourcecred/initiativeFile",
+      "version": "0.2.0"
+    },
+    {
+      "title": "Superfluid (ETHx) Auction Spec",
+      "timestampIso": "2021-12-26T10:00:00.000Z",
+      "weight": {
+        "incomplete": 5,
+        "complete": 8
+      },
+      "completed": false,
+      "champions": [
+            "https://github.com/codynhat"
+      ],
+      "contributions": {},
+      "dependencies": {},
+      "references": {
+        "urls": [
+            "https://github.com/Geo-Web-Project/garden/blob/main/content/notes/Draft%20Proposal%20-%20ETHxPurchaser.md"
+        ]
+      }
+    }
+  ]
