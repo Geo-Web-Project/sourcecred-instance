@@ -7,10 +7,10 @@
       "title": "Superfluid (ETHx) Auction Spec",
       "timestampIso": "2021-12-26T10:00:00.000Z",
       "weight": {
-        "incomplete": 5,
-        "complete": 8
+        "incomplete": 0,
+        "complete": 13
       },
-      "completed": false,
+      "completed": true,
       "champions": [
             "https://github.com/codynhat"
       ],
