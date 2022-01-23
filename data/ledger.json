@@ -3060,3 +3060,5 @@
 {"action":{"identityId":"nWRWzQkrpPibukwWie4Q4Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1642886569684,"uuid":"O6Yqnr1PKAIrGcEIgul77Q","version":"1"}
 {"action":{"identityId":"nWRWzQkrpPibukwWie4Q4Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1642886575022,"uuid":"kOKf2rBXPkvoxhxmn8h8zQ","version":"1"}
 {"action":{"identityId":"Y5gkmxmU8ez3CXXF0ldvBw","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1642886595282,"uuid":"ety4D4yoXobL1WE81PQo7g","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u0000BgI1bvmCKG5BF1JVYLoYPw\u0000","aliases":[],"id":"BgI1bvmCKG5BF1JVYLoYPw","name":"taekikz","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1642899236451,"uuid":"aV9kwxwTAAtALSe4Y2UdpQ","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000636261045606023169\u0000","description":"discord/taekikz#8873"},"identityId":"BgI1bvmCKG5BF1JVYLoYPw","type":"ADD_ALIAS"},"ledgerTimestamp":1642899236451,"uuid":"8pKnDyD7ASVQCRt6GL08fQ","version":"1"}
