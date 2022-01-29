@@ -14,6 +14,7 @@
         "Geo-Web-Project/browser",
         "Geo-Web-Project/storage-workers",
         "Geo-Web-Project/docs",
-        "Geo-Web-Project/geoweb-experiments"
+        "Geo-Web-Project/geoweb-experiments",
+        "Geo-Web-Project/datamodels"
     ]
 }
