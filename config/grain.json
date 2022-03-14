@@ -1,7 +1,15 @@
 {
-  "immediatePerWeek": 750,
-  "balancedPerWeek": 0,
-  "recentPerWeek": 750,
-  "recentWeeklyDecayRate": 0.25,
+  "allocationPolicies": [
+    {
+      "budget": "750",
+      "numIntervalsLookback": 1,
+      "policyType": "IMMEDIATE"
+    },
+    {
+      "budget": "750",
+      "discount": 0.25,
+      "policyType": "RECENT"
+    }
+  ],
   "maxSimultaneousDistributions": 1
 }
