@@ -1,0 +1,25 @@
+[
+    {
+      "type": "sourcecred/initiativeFile",
+      "version": "0.2.0"
+    },
+    {
+      "title": "Bootstrap Version Update Support",
+      "timestampIso": "2022-08-12T00:00:00.000Z",
+      "weight": {
+        "incomplete": 0,
+        "complete": 10
+      },
+      "completed": true,
+      "champions": [
+            "https://github.com/tnrdd"
+      ],
+      "contributions": {},
+      "dependencies": {},
+      "references": {
+        "urls": [
+            "https://github.com/Geo-Web-Project/cadastre/pull/224"
+        ]
+      }
+    }
+  ]
