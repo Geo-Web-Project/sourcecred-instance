@@ -6,7 +6,7 @@
       "policyType": "IMMEDIATE"
     },
     {
-      "budget": "750",
+      "budget": "250",
       "discount": 0.25,
       "policyType": "RECENT"
     }
