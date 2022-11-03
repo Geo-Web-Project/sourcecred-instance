@@ -1,1 +1,1 @@
-[{"type":"sourcecred/weights","version":"0.2.0"},{"edgeWeights":{},"nodeWeights":{"N\u0000sourcecred\u0000discourse\u0000post\u0000":1,"N\u0000sourcecred\u0000discourse\u0000topic\u0000":1}}]
+[{"type":"sourcecred/weights","version":"0.2.0"},{"edgeWeights":{"E\u0000sourcecred\u0000github\u0000REFERENCES\u0000":{"backwards":0,"forwards":0}},"nodeWeights":{"N\u0000sourcecred\u0000discourse\u0000post\u0000":1,"N\u0000sourcecred\u0000discourse\u0000topic\u0000":1,"N\u0000sourcecred\u0000github\u0000REVIEW\u0000":1}}]
