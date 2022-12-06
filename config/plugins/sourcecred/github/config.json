@@ -17,5 +17,6 @@
         "Geo-Web-Project/geoweb-experiments",
         "Geo-Web-Project/datamodels",
 	"Geo-Web-Project/sdk"
+	"Geo-Web-Project/js-geo-web"
     ]
 }
