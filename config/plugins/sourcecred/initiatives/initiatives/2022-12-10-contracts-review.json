@@ -1,0 +1,19 @@
+[
+  {
+    "type": "sourcecred/initiativeFile",
+    "version": "0.2.0"
+  },
+  {
+    "title": "Smart Contract Review",
+    "timestampIso": "2022-12-09T00:00:00.000Z",
+    "weight": {
+      "incomplete": 0,
+      "complete": 30
+    },
+    "completed": true,
+    "champions": ["@colinnielsen"],
+    "contributions": {},
+    "dependencies": {},
+    "references": {}
+  }
+]
