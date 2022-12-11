@@ -4,11 +4,11 @@
     "version": "0.2.0"
   },
   {
-    "title": "Smart Contract Review",
-    "timestampIso": "2022-12-09T00:00:00.000Z",
+    "title": "Smart Contract Review 1",
+    "timestampIso": "2022-12-08T00:00:00.000Z",
     "weight": {
       "incomplete": 0,
-      "complete": 30
+      "complete": 15
     },
     "completed": true,
     "champions": ["@colinnielsen"],
