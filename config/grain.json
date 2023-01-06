@@ -1,10 +1,4 @@
 {
-  "allocationPolicies": [
-    {
-      "budget": "2500",
-      "discount": 0.1,
-      "policyType": "RECENT"
-    }
-  ],
+  "allocationPolicies": [],
   "maxSimultaneousDistributions": 1
 }
